@@ -1,1 +1,15 @@
 /workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/TarefasApiApplication.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/controller/AuthController.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/controller/HomeController.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/controller/TarefaController.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/dto/LoginDTO.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/dto/TarefaDTO.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/dto/UsuarioDTO.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/model/Tarefa.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/model/Usuario.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/repository/TarefaRepository.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/repository/UsuarioRepository.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/security/JwtUtil.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/security/SecurityConfig.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/service/TarefaService.java
+/workspaces/tarefas-api/tarefas-api/src/main/java/com/tarefas/tarefas_api/service/UsuarioService.java

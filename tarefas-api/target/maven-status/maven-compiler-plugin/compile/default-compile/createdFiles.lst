@@ -1,1 +1,15 @@
+com/tarefas/tarefas_api/dto/UsuarioDTO.class
+com/tarefas/tarefas_api/repository/UsuarioRepository.class
+com/tarefas/tarefas_api/dto/LoginDTO.class
+com/tarefas/tarefas_api/dto/TarefaDTO.class
+com/tarefas/tarefas_api/controller/AuthController.class
+com/tarefas/tarefas_api/service/UsuarioService.class
+com/tarefas/tarefas_api/model/Tarefa.class
+com/tarefas/tarefas_api/service/TarefaService.class
+com/tarefas/tarefas_api/controller/TarefaController.class
+com/tarefas/tarefas_api/controller/HomeController.class
+com/tarefas/tarefas_api/security/SecurityConfig.class
+com/tarefas/tarefas_api/repository/TarefaRepository.class
 com/tarefas/tarefas_api/TarefasApiApplication.class
+com/tarefas/tarefas_api/model/Usuario.class
+com/tarefas/tarefas_api/security/JwtUtil.class
